@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-实际运行效果比录屏好
-=======
+
 实际运行效果比录屏好
 
->>>>>>> newbranch
+![image](https://github.com/Munccccc/RcMarquee/blob/master/images/munc.gif)
