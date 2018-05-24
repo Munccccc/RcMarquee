@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <!--<com.muncrcbanner.BannerIndicator-->
+        <!--android:id="@+id/indicator"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="32dp"-->
+        <!--android:layout_alignBottom="@+id/recycler"-->
+        <!--app:selectColor="@color/colorAccent"-->
+        <!--app:unselectedColor="#ffffff"-->
+        <!--app:radius="3dp"-->
+        <!--app:space="10dp"/>-->
+
+</RelativeLayout>
